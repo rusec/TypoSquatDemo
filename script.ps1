@@ -16,4 +16,4 @@ public class Wallpaper
 "@
 Add-Type -TypeDefinition $setwallpapersrc
 
-[Wallpaper]::SetWallpaper(".\malware_wall.jpg")
+[Wallpaper]::SetWallpaper("C:\Users\MalwareLab\Desktop\malware_wall.jpg")
