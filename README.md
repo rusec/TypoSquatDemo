@@ -1,0 +1,2 @@
+# TypoSquatDemo
+TYPOSQUAT Demo
