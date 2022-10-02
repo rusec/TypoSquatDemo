@@ -16,4 +16,4 @@ public class Wallpaper
 "@
 Add-Type -TypeDefinition $setwallpapersrc
 
-[Wallpaper]::SetWallpaper("./redflag.jpg")
+[Wallpaper]::SetWallpaper(".\malware_wall.jpg")
